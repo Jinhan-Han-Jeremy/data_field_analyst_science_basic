@@ -1,3 +1,3 @@
 # data_field_analyst_science_basic
 
-This is data fields or analysis or science basic knowledges and codes
+This is basic knowledges of data fields or analysis or science codes
